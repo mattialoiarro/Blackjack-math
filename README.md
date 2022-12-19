@@ -1,12 +1,12 @@
 # Blackjack React App using Typescript
 Blackjack card game created for our math class using Typscript and React.
 
-### Preveiw
+### Preview
 ![alt text](src/components/styles/picture/preview.png "Preview")
 
 ## Installation
 
-- git clone this project
+- git clone https://github.com/mattialoiarro/Blackjack-math.git
 - npm install
 - npm start
 
