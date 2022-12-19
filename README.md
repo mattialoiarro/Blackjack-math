@@ -2,7 +2,7 @@
 Blackjack card game created for our math class using Typscript and React.
 
 ### Preveiw
-![alt text](./blackjackback.png "Preview")
+![alt text](src/components/styles/picture/preview.jpg "Preview")
 
 ## Installation
 
